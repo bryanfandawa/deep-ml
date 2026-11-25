@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T22:43:07.416Z",
+  "generated_at": "2026-11-25T00:26:41.663Z",
   "items": {
     "problem:22": {
       "kind": "problem",
@@ -37,6 +37,19 @@
       "path": "math/0001-derivatives-and-gradients",
       "first_solved_at": "2026-11-24T22:43:06.964Z",
       "last_pushed_at": "2026-11-24T22:43:06.964Z"
+    },
+    "problem:24": {
+      "kind": "problem",
+      "id": "24",
+      "title": "Single Neuron",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/24",
+      "path": "problems/0024-single-neuron",
+      "first_solved_at": "2026-11-25T00:26:41.077Z",
+      "last_pushed_at": "2026-11-25T00:26:41.077Z",
+      "language": "python",
+      "lines": 22
     }
   }
 }
